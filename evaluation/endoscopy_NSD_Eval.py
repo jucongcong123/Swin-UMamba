@@ -4,7 +4,7 @@ Created on Fri Apr 15 12:59:48 2022
 
 @author: 12593
 """
-
+#点击右上角的edit，我们就可以修改项目中的py文件-----2024.11.18
 import numpy as np
 #import nibabel as nb
 import cv2
